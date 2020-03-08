@@ -1,0 +1,17 @@
+-ID:\YYCThesis\Thesis\husky_simple_balancing_sim
+-ID:\YYCThesis\Thesis\husky_simple_balancing_sim\robot_simple_balancing_grt_rtw
+-I"D:\Program Files\MATLAB\extern\include"
+-I"D:\Program Files\MATLAB\simulink\include"
+-I"D:\Program Files\MATLAB\rtw\c\src"
+-I"D:\Program Files\MATLAB\rtw\c\src\ext_mode\common"
+-I"D:\Program Files\MATLAB\toolbox\physmod\sm\ssci\c\win64"
+-I"D:\Program Files\MATLAB\toolbox\physmod\sm\core\c\win64"
+-I"D:\Program Files\MATLAB\toolbox\physmod\pm_math\c\win64"
+-I"D:\Program Files\MATLAB\toolbox\physmod\simscape\engine\sli\c\win64"
+-I"D:\Program Files\MATLAB\toolbox\physmod\simscape\engine\core\c\win64"
+-I"D:\Program Files\MATLAB\toolbox\physmod\simscape\compiler\core\c\win64"
+-I"D:\Program Files\MATLAB\toolbox\physmod\network_engine\c\win64"
+-I"D:\Program Files\MATLAB\toolbox\physmod\common\math\core\c\win64"
+-I"D:\Program Files\MATLAB\toolbox\physmod\common\lang\core\c\win64"
+-I"D:\Program Files\MATLAB\toolbox\physmod\common\external\library\c\win64"
+-I"D:\Program Files\MATLAB\toolbox\physmod\common\foundation\core\c\win64"
